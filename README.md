@@ -21,6 +21,14 @@ deb-src http://ftp.halifax.rwth-aachen.de/kali/ kali-rolling main contrib non-fr
 deb http://ftp.halifax.rwth-aachen.de/kali/ kali-bleeding-edge main contrib non-free
 ```
 
+
+## Support
+
+If this repository helped you, please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further improvements.
+
+Thank you for your support!
+
+
 سپس دستورات زیر را اجرا کنید:
 
 ```bash
