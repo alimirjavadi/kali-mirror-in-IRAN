@@ -22,16 +22,15 @@ deb http://ftp.halifax.rwth-aachen.de/kali/ kali-bleeding-edge main contrib non-
 ```
 
 
-## Support
-
-If this repository helped you, please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further improvements.
-
-Thank you for your support!
-
-
 سپس دستورات زیر را اجرا کنید:
 
 ```bash
 sudo apt update
 sudo apt upgrade
 ```
+
+## Support
+
+If this repository helped you, please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further improvements.
+
+Thank you for your support!
