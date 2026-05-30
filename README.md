@@ -1,6 +1,6 @@
 # kali-mirror-in-IRAN
 
-## Mirror Kali Repo
+## kali-linux-mirror-guide
 
 این مخزن آینه‌ی رسمی Kali است برای دانلود بسته‌ها از طریق ترمینال.  
 فایل `/etc/apt/sources.list` را با محتوای زیر جایگزین کنید:
