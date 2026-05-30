@@ -31,6 +31,4 @@ sudo apt upgrade
 
 ## Support
 
-If this repository helped you, please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further improvements.
-
-Thank you for your support!
+اگر این مخزن برای شما مفید بوده است، لطفاً با دادن یک ⭐ در گیت‌هاب از آن حمایت کنید. این کار به دیده شدن پروژه کمک می‌کند و انگیزه‌ای برای توسعه و بهبود بیشتر آن خواهد بود.
