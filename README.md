@@ -1,5 +1,3 @@
-# kali-mirror-in-IRAN
-
 ## kali-linux-mirror-guide
 
 این مخزن آینه‌ی رسمی Kali است برای دانلود بسته‌ها از طریق ترمینال.  
